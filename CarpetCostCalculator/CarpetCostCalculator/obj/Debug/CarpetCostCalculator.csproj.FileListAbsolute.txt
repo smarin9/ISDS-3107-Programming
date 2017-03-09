@@ -1,0 +1,9 @@
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\bin\Debug\CarpetCostCalculator.exe.config
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\bin\Debug\CarpetCostCalculator.exe
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\bin\Debug\CarpetCostCalculator.pdb
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\obj\Debug\CarpetCostCalculator.csprojResolveAssemblyReference.cache
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\obj\Debug\CarpetCostCalculator.Form1.resources
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\obj\Debug\CarpetCostCalculator.Properties.Resources.resources
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\obj\Debug\CarpetCostCalculator.csproj.GenerateResource.Cache
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\obj\Debug\CarpetCostCalculator.exe
+C:\Users\smarin9\Desktop\CarpetCostCalculator\CarpetCostCalculator\obj\Debug\CarpetCostCalculator.pdb
