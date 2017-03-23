@@ -1,0 +1,2 @@
+c:\users\cborne1\documents\visual studio 2012\Projects\ComputerExamFall2016\ComputerExamFall2016\bin\Debug\ComputerExamFall2016.exe.config
+\\ba-stf\borne$\PracticeComputerExamSpring2017\ComputerExamFall2016\bin\Debug\ComputerExamFall2016.exe.config
